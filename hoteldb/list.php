@@ -7,7 +7,6 @@
 	<link rel="stylesheet" href="../assets/css/style.css" />
 	<link rel="stylesheet" href="../assets/css/hotels.css" />
 </head>
-
 <body>
 	<header>
 		<h1>ホテル検索結果一覧</h1>
@@ -149,5 +148,4 @@
 		<div id="copyright">(C) 2019 The Web System Development Course</div>
 	</footer>
 </body>
-
 </html>
